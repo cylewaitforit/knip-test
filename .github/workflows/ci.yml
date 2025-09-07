@@ -27,4 +27,4 @@ jobs:
         run: npm ci
 
       - name: Run Knip
-        run: npm run knip --reporter github-actions
+        run: npx knip --reporter github-actions
