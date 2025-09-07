@@ -2,6 +2,7 @@
   "name": "@cylewaitforit/knip-playground-basic",
   "version": "1.0.0",
   "private": true,
+  "workspaces": ["lib"],
   "scripts": {
     "knip": "knip"
   },
