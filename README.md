@@ -28,3 +28,7 @@ unusedFunction  util.ts:6:14
   it's reported as an unused export.
 
 For more information about handling these issues, see the [Knip documentation](https://knip.dev/guides/handling-issues).
+
+## GitHub Actions Integration
+
+This playground includes a GitHub Actions workflow that runs knip with the `github-actions` reporter, which provides GitHub annotations for issues found in pull requests.
