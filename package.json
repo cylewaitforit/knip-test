@@ -11,6 +11,7 @@
   "devDependencies": {
     "@types/node": "^20.14.8",
     "knip": "https://pkg.pr.new/knip@1231",
+    "typesense": "2.1.0",
     "typescript": "^5.5.4"
   }
 }
