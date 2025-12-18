@@ -1,5 +1,5 @@
-{
-  "$schema": "https://unpkg.com/knip@5/schema.json",
+
+export default{
   "entry": ["index.ts", "index.js"],
   "project": ["*.ts"]
-}
+};
